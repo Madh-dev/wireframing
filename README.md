@@ -46,6 +46,9 @@ Outlines interactive features or actions that the user can take.
 - **When Used:** Useful during later stages of design to present a clearer picture to stakeholders and to prepare for the transition to prototypes.  
 - **Example:** A digitally designed wireframe in Figma showing exact button positions, grid layouts, and structured content blocks.  
 
+### The type of wireframe of the figma provided
+- **Well detailed content placement, with placeholder images and well structured typography. the search layout is well placed in its grid, well detailed review section. the login and signup structure and icons were in their position**
+
 ---
 
 ## Popular Wireframing Tools
